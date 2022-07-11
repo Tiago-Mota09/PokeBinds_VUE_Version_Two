@@ -10,12 +10,6 @@ Teste para Binds versão 2. Sistema conectado com a API PokeApi que exibe lista 
 
 ## 🌐 Resultado
 
-<a href="https://pokedex-vuejs-kappa.vercel.app/">
-  <img src=".github/resultado.png" width="75%" />
-</a>
-
-Clique na imagem para abrir o site utilizando o Vercel!
-
 ## 🤔 Como executar o Projeto? 
 
 ### Requisitos
